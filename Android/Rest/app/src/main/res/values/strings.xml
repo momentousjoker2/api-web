@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Rest-API</string>
+
+    <string name="app_Segunda">Usuario</string>
+    <string name="app_Tercera">Generar</string>
+
+    <string name="updateMensaje">Desea actualizar los datos</string>
+    <string name="updateTitulo">Actualizar</string>
+    <string name="updateOk">Actualizar</string>
+    <string name="cancel">Cancelar</string>
+
+    <string name="eliminarMensaje">Desea eliminar este regristo</string>
+    <string name="eliminarTitulo">Eliminar</string>
+    <string name="Eliminarok">"Eliminar "</string>
+
+    <string name="btnAgregar">Agregar empleado</string>
+    <string name="btnConsultar">Consultar empleado</string>
+    <string name="btnConsultaG">Consulta General</string>
+
+    <string name="btnModificar">Modificar Empleado</string>
+    <string name="btnEliminar">Eliminar Empleado</string>
+    <string name="btnConsultarM">Consultar</string>
+
+    <string name="txtID">ID del Empleado</string>
+    <string name="txtNombre">Nombre del empleado</string>
+    <string name="txtApellido">Apellido del empleado</string>
+    <string name="txtPuesto">Puesto del empleado</string>
+    <string name="txtSalario">Salario del empleado</string>
+
+    <string name="titulo_opcion1">Acerca de...</string>
+    <string name="text_informacion_progra">Acerca de</string>
+    <string name="text_programadores">Programador:Cristian Emmanuel Amezcua Moreno</string>
+    <string name="text_Aceptar">Aceptar</string>
+
+
+</resources>
